@@ -32,6 +32,11 @@ A responsive, neon-themed calculator built with React, Tailwind CSS, and MathJS.
 - **Custom Scrollbar:**  
   The horizontal scrollbar for long expressions is styled to match the neon theme of the application.
 
+## Live Demo
+
+Check out the live production version of the Neon Calculator here:  
+[https://yourcalculatordr.netlify.app/](https://yourcalculatordr.netlify.app/)
+
 ## Installation
 
 1. **Clone the Repository:**
