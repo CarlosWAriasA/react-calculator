@@ -165,7 +165,7 @@ const Calculator = () => {
       <div className="flex flex-col items-center md:hidden">
         {/* History section */}
         <div className="w-full max-w-[320px] bg-black p-4 rounded-2xl text-white mb-4">
-          <h2 className="text-lg mb-2">Historial</h2>
+          <h2 className="text-lg mb-2">History</h2>
           <ul>
             {history.map((item, index) => (
               <li
@@ -220,7 +220,7 @@ const Calculator = () => {
       <div className="hidden md:relative md:flex md:justify-center md:items-center">
         {/* History panel on the left */}
         <div className="absolute left-[-320px] top-0 w-[300px] bg-black p-4 rounded-2xl text-white max-h-full overflow-auto">
-          <h2 className="text-lg mb-2">Historial</h2>
+          <h2 className="text-lg mb-2">History</h2>
           <ul>
             {history.map((item, index) => (
               <li
