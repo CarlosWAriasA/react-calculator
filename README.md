@@ -37,6 +37,6 @@ A responsive, neon-themed calculator built with React, Tailwind CSS, and MathJS.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/neon-calculator.git
+   git clone https://github.com/CarlosWAriasA/react-calculator.git
    cd neon-calculator
    ```
