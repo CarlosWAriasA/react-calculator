@@ -2,21 +2,10 @@
 
 A responsive, neon-themed calculator built with React, Tailwind CSS, and MathJS. This application features live partial evaluation of expressions, an interactive history panel, custom scrollbar styling, and a modern animated UI.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Customization](#customization)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-
 ## Features
 
 - **Live Partial Evaluation:**  
-  As you type an expression, a live evaluation is shown below the expression—even if the expression is incomplete (e.g., `50+`).
-
+  As you type an expression, a live evaluation is shown below the expression.
 - **Final Calculation:**  
   Press the "=" button to compute the final result using MathJS. The final result is displayed prominently.
 
