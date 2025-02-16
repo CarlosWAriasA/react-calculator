@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+.animate-neon {
+  animation: neon 1.5s ease-in-out infinite;
+}
+
+.my-scroll::-webkit-scrollbar {
+  height: 8px;
+}
+.my-scroll::-webkit-scrollbar-track {
+  background: #141414;
+}
+.my-scroll::-webkit-scrollbar-thumb {
+  background: #4ccdc6;
+  border-radius: 9999px;
+}
+.my-scroll::-webkit-scrollbar-thumb:hover {
+  background: #3bab9c;
+}
+
+.my-scroll {
+  scrollbar-color: #4ccdc6 #141414;
+  scrollbar-width: thin;
+}
